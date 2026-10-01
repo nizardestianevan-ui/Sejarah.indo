@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav className="min-h-screen bg-sandstone-500">
+        <nav className="px-3 py-6 bg-jade-500">
             <h2>My Website</h2>
         </nav>
     );
@@ -8,7 +8,7 @@ function Navbar() {
 
 function Hero() {
     return (
-        <section>
+        <section className="min-h-screen bg-jade-600">
             <h1>Hello React 🚀</h1>
             <p>React berjalan dari file terpisah.</p>
         </section>
