@@ -1,6 +1,6 @@
 function Navbar() {
     return (
-        <nav classname="bg-sandstone-500">
+        <nav className="min-h-screen bg-sandstone-500">
             <h2>My Website</h2>
         </nav>
     );
