@@ -1,7 +1,7 @@
 function Navbar() {
     return (
         <nav className="px-3 py-6 bg-jade-500">
-            <h2 className="font-vibes text-5xl text-center ">
+            <h2 className="font-vibes text-5xl text-center text-sandstone-500">
                 My Website
             </h2>
         </nav>
